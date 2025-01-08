@@ -4,7 +4,7 @@
         <img alt="Hey! I'm HardcodeCoder" src="./name.svg" />
     </a>
     <br />
-    <a href="">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
             alt="A passonate Android Developer; Experience Software Engineer; Always exploring and learning"
             src="https://readme-typing-svg.demolab.com/?font=Noto%20Sans&color=74FCDF&center=true&lines=A%20passonate%20Android%20Developer;Experienced%20Software%20Engineer;%20Always%20exploring%20and%20learning" />
@@ -17,17 +17,17 @@
     <a href="https://github.com/HardcodeCoder?tab=repositories&sort=stargazers">
         <img
             alt="Github Stars"
-            src="https://img.shields.io/github/stars/hardcodecoder?style=for-the-badge&logo=apachespark&labelColor=35383E&logoColor=FFFFFF&color=AAFF89" />
+            src="https://img.shields.io/github/stars/HardcodeCoder?style=for-the-badge&logo=apachespark&labelColor=35383E&logoColor=FFFFFF&color=AAFF89" />
     </a>
-    <a href="https://twitter.com/hardcodecoder">
+    <a href="https://x.com/hardcodecoder">
         <img
             alt="Follow on X"
-            src="https://img.shields.io/badge/@hardcodecoder-35383E?style=for-the-badge&logo=x&labelColor=35383E&logoColor=FFFFFF&color=FFF289" />
+            src="https://img.shields.io/badge/@HardcodeCoder-35383E?style=for-the-badge&logo=x&labelColor=35383E&logoColor=FFFFFF&color=FFF289" />
     </a>
     <a href="https://github.com/HardcodeCoder?tab=followers">
         <img
             alt="Github Followers"
-            src="https://img.shields.io/github/followers/hardcodecoder?style=for-the-badge&logo=github&labelColor=35383E&logoColor=FFFFFF&color=539BF5" />
+            src="https://img.shields.io/github/followers/HardcodeCoder?style=for-the-badge&logo=github&labelColor=35383E&logoColor=FFFFFF&color=539BF5" />
     </a>
 </div>
 <br />
