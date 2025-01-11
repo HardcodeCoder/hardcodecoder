@@ -7,7 +7,7 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
             alt="A passonate Android Developer; Experience Software Engineer; Always exploring and learning"
-            src="https://readme-typing-svg.demolab.com/?font=Noto%20Sans&color=74FCDF&center=true&lines=A%20passonate%20Android%20Developer;Experienced%20Software%20Engineer;%20Always%20exploring%20and%20learning" />
+            src="https://readme-typing-svg.demolab.com/?font=Nunito%20Sans&color=92E4A6&center=true&lines=A%20passonate%20Android%20Developer;Experienced%20Software%20Engineer;%20Always%20exploring%20and%20learning" />
     </a>
 </div>
 <br />
