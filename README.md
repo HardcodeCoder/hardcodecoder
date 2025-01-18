@@ -37,7 +37,7 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img
             alt="Github Streak Stats"
-            src="https://github-readme-streak-stats-livid-delta.vercel.app?user=HardcodeCoder&theme=github-dark&border_radius=8&mode=weekly&border=AAFF89&stroke=AAFF89&dates=AAFF89&ring=AAFF89&fire=539BF5" />
+            src="https://readme-streak-stats-gamma.vercel.app?user=HardcodeCoder&theme=github-dark&border_radius=8&mode=weekly&border=AAFF89&stroke=AAFF89&dates=AAFF89&ring=AAFF89&fire=539BF5" />
     </a>
 </div>
 <br />
