@@ -48,32 +48,38 @@
 </div>
 
 ```kotlin
-data class WhoAmI(
-    val name: String = "Ashuthosh",
-    val langs: List<String> = listOf(
-        "JAVA",
+class WhoAmI {
+    val name = "Ashuthosh Patoa"
+    val aka = "HardcodeCoder"
+    val languages = listOf(
         "Kotlin",
-        "C#"
+        "Java",
+        "C#",
+        "Python",
         "JavaScript",
         "Shell",
         "PowerShell",
-        "Python"
-    ),
-    val editors: List<String> = listOf(
-        "Android Studio",
-        "VS Code",
-        "Visual Studio",
-        "PyCharm",
-        "Kate"
-    ),
-    val hobbies: List<String> = listOf(
-        "Automating stuff in bash and powershell",
-        "Slimming down Windows",
-        "Debloating Android",
-        "Badminton",
-        "Cycling"
+        "C",
     )
-)
+    val editors = listOf(
+        "Android Studio",
+        "IntelliJ",
+        "VS Code",
+        "Kate",
+        "Notepad++",
+        "nano",
+        "Zed",
+        "Visual Studio",
+    )
+    val timeKillers = listOf(
+        "Cycling",
+        "Badminton",
+        "Debloating Windows",
+        "Automating through CLI",
+    )
+
+    override fun toString() = "WhoAmI: Noob!"
+}
 ```
 
 <!-- Github profile stats and graph -->
